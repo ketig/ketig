@@ -20,9 +20,9 @@
 - Machine Learning & AI 🧠
 - Cybersecurity & ethical hacking 🛡️  
 
-### 📬 **Connect with Me**  
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]( https://www.linkedin.com/in/keti-gujejiani-2976a11b4/)  -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)]( https://ketig.github.io/portfolio/)  
+<!--### 📬 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]( https://www.linkedin.com/in/keti-gujejiani-2976a11b4/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)]( https://ketig.github.io/portfolio/) --> 
 
 ### 🏆 **Fun Facts About Me:**  
 - 🧠 Passionate about Machine Learning & AI
