@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Keti Gujejiani  
+# Hi there! 👋 I'm Keti G  
 🚀 **Full-Stack Developer | Passionate about Web & Software Development**  
 
 ### 🛠️ **Tech Stack**  
