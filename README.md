@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ketig](github-readme-stats.vercel.app)
+![Keti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketig)
